@@ -1,2 +1,2 @@
-# verTXT
-Visualizador de ficheiros TXT básico
+# VerTXT
+Visualizador de ficheiros TXT básico, escrito em C++ com CLI/CLR
